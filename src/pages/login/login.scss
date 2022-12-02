@@ -1,0 +1,66 @@
+ @mixin main{
+  max-width: 1440px;
+  background-color: lightgrey;
+   text-align: center;
+   height: 100vh;
+   position: relative;
+}
+
+ @mixin  container{
+   position: absolute;
+   top:3rem;
+   max-width: 1200px;
+   margin: 0 auto;
+ }
+
+ @mixin containerHeader{
+   width: 46%;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   text-align: center;
+   margin:  0 auto;
+ }
+
+ @mixin containerHeaderH1{
+   ont-family: 'Arian AMU';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 1.1rem;
+   line-height: 21px;
+   color: #0B1219;
+ }
+
+ @mixin containerMain{
+   display: flex;
+ }
+
+ @mixin loginForm{
+   width: 533px;
+   background: #0B1219;
+ }
+
+.main {
+  @include main
+}
+
+ .container{
+@include  container
+ }
+
+ .containerHeader{
+@include  containerHeader
+ }
+
+ .containerHeader h1{
+   @include  containerHeaderH1
+ }
+
+ .containerMain{
+   @include containerMain
+ }
+
+ .loginForm{
+   @include loginForm
+ }
+

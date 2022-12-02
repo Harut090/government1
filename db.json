@@ -1,0 +1,292 @@
+{
+    "membersInfo":[
+        {
+            "id":1,
+            "title":"ՀՀ վարչապետ",
+            "fullName": "Նիկոլ Փաշինյան"
+        },
+        {
+            "id":2,
+            "title":"ՀՀ փոխվարչապետ",
+            "fullName": "Մհեր Գրիգորյան"
+        },
+        {
+            "id":3,
+            "title":"ՀՀ փոխվարչապետ",
+            "fullName": "Համբարձում Մաթևոսյան"
+        },
+        {
+            "id":4,
+            "title":"Աշխատանքի եւ սոցիալական հարցերի նախարարություն",
+            "fullName": "Նարեկ Մկրտչյան"
+        },
+        {
+            "id":5,
+            "title":"Առողջապահության նախարարություն",
+            "fullName": "Անահիտ Ավանեսյան"
+        },
+        {
+            "id":6,
+            "title":"Արդարադատության նախարարություն",
+            "fullName": "Լևոն Աբրահամյան"
+        },
+        {
+            "id":7,
+            "title":"Արտակարգ իրավիճակների նախարարություն",
+            "fullName": "Արմեն Փամբուխչյան"
+        },
+         {
+            "id":8,
+            "title":"Արտաքին գործերի նախարարություն",
+             "fullName": "Արարատ Միրզոյան"
+        },
+        {
+            "id":9,
+            "title":"Բարձր տեխնոլոգիական արդյունաբերության նախարարություն",
+            "fullName": "Ռոբերտ Խաչատրյան"
+        },
+        {
+            "id":10,
+            "title":"ԲԿրթության, գիտության, մշակույթի և սպորտի նախարարություն",
+            "fullName": "Վահրամ Դումանյան"
+        },
+        {
+            "id":11,
+            "title":"Էկոնոմիկայի նախարարություն",
+            "fullName": "Վահան ՔերոբյաՆ"
+        },
+        {
+            "id":12,
+            "title":"Շրջակա միջավայրի նախարարություն",
+            "fullName": "Հակոբ Սիմիդյան"
+        },
+        {
+            "id":13,
+            "title":"Պաշտպանության նախարարություն",
+            "fullName": "Սուրեն Պապիկյան"
+        },
+        {
+            "id":14,
+            "title":"Տարածքային կառավարման և ենթակառուցվածքների նախարարություն",
+            "fullName": "Գնել Սանոսյան"
+        },
+        {
+            "id":15,
+            "title":"Ֆինանսների նախարարություն",
+            "fullName": "Տիգրան Խաչատրյան"
+        }
+
+    ],
+    "membersFullInfo":[
+        {
+            "id":1,
+            "img":"gov1",
+            "title_key":"Պաշտոն։",
+            "title":"ՀՀ վարչապետ",
+            "fullName":"Նիկոլ Փաշինյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":2,
+            "img":"gov2",
+            "title_key":"Պաշտոն։",
+            "title":"ՀՀ փոխվարչապետ",
+            "fullName":"Մհեր Գրիգորյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":3,
+            "img":"gov3",
+            "title_key":"Պաշտոն։",
+            "title":"ՀՀ փոխվարչապետ",
+            "fullName":"Համբարձում Մաթևոսյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":4,
+            "img":"gov4",
+            "title_key":"Պաշտոն։",
+            "title":"Առողջապահության նախարար",
+            "fullName":"Անահիտ Ավանեսյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":5,
+            "img":"gov5",
+            "title_key":"Պաշտոն։",
+            "title":"ՀՀ վարչապետ",
+            "fullName":"Նիկոլ Փաշինյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":6,
+            "img":"gov6",
+            "title_key":"Պաշտոն։",
+            "title":"Արտակարգ իրավիճակների նախարար",
+            "fullName":"Արմեն Փամբուխչյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":7,
+            "img":"gov7",
+            "title_key":"Պաշտոն։",
+            "title":"Արտաքին գործերի նախարար",
+            "fullName":"Արարատ Միրզոյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":8,
+            "img":"gov8",
+            "title_key":"Պաշտոն։",
+            "title":"Բարձր տեխնոլոգիական արդյունաբերության նախարար",
+            "fullName":"Ռոբերտ Խաչատրյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":9,
+            "img":"gov9",
+            "title_key":"Պաշտոն։",
+            "title":"Էկոնոմիկայի նախարար",
+            "fullName":"Վահան Քերոբյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":10,
+            "img":"gov10",
+            "title_key":"Պաշտոն։",
+            "title":"Կրթության, գիտության, մշակույթի և սպորտի նախարար",
+            "fullName":"Վահրամ Դումանյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":11,
+            "img":"gov11",
+            "title_key":"Պաշտոն։",
+            "title":"Շրջակա միջավայրի նախարար",
+            "fullName":"Հակոբ Սիմիդյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":12,
+            "img":"gov12",
+            "title_key":"Պաշտոն։",
+            "title":"Պաշտպանության նախարար",
+            "fullName":"Սուրեն Պապիկյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":13,
+            "img":"gov13",
+            "title_key":"Պաշտոն։",
+            "title":"Տարածքային կառավարման և ենթակառուցվածքների նախարար",
+            "fullName":"Գնել Սանոսյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        },
+        {
+            "id":14,
+            "img":"gov14",
+            "title_key":"Պաշտոն։",
+            "title":"ՏՖինանսների նախարար",
+            "fullName":"Տիգրան Խաչատրյան",
+            "fullName_key":"Անուն ազգանուն։",
+            "active_str":"Ապաակտիվացնել",
+            "active_logos_ring":"",
+            "active_logos_background":"",
+            "edite_logo":"edite.png",
+            "edite_str":"Խմբագրել",
+            "trash_logo":"trash",
+            "trash_str":"Ջնջել"
+        }
+    ]
+}
